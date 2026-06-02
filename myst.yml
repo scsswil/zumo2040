@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 75a1f2b2-18ce-4298-8427-7f4533a0540a
+  title: Zumo 2040
+  description: Resources developed by the University of Leeds for the Zumo 2040 robot.
+  # keywords: []
+  # authors: ["School of Computer Science, University of Leeds"]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
