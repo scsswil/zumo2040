@@ -11,7 +11,7 @@ Robots are used in many different areas of life, including:
  - Exploration (e.g. space and underwater missions)
  - Everyday technology (e.g. vacuum cleaners and delivery systems)
 
-In this programme, you will learn how to program a small robot to behave "intelligently". You will start with simple movement and gradually build up to creating an autonomous robot that can compete in challenges.
+In this set of resources, you will learn how to program a small robot to behave "intelligently". You will start with simple movement and gradually build up to creating an autonomous robot that can compete in challenges.
 
 ## Meet the Zumo 2040 Robot
 

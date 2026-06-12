@@ -34,9 +34,7 @@ Your code will run directly on the robot’s microcontroller, meaning the Zumo 2
 
 The key idea in robotics is connecting hardware (physical parts) with software (your Python code). In the Zumo 2040:
 
-Sensors provide information from the real world
-Your Python program processes that information
-The motors and outputs respond based on your instructions
+Sensors provide information from the real world. Your Python program processes that information. The motors and outputs respond based on your instructions
 
 This feedback loop is what allows the robot to behave intelligently and react to its environment.
 

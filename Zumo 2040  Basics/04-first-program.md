@@ -28,9 +28,11 @@ In this activity, we will use Python to tell the computer to display a message.
 
 ### Step 1: Open Thonny
 
-1. Open the Thonny IDE on your computer.
+1. Plug the Zumo 2040 into your computer using the provided USB-C cable.
 
-2. When Thonny starts, you should see a large empty editor area at the top of the window and a shell at the bottom.
+2. Open the Thonny IDE on your computer.
+
+3. When Thonny starts, you should see a large empty editor area at the top of the window and a shell at the bottom.
 
 ```{figure} ../assets/thonny.png
 :label: thonny
@@ -45,13 +47,17 @@ The editor is where you write your code. The shell is where Python displays mess
 
 ### Step 2: Write Your First Program
 
-1. Click inside the editor and type the following code:
+1. Click File > New.
+
+2. Click inside the editor and type the following code:
 
 ```python
 print("Hello, world!")
 ```
 
 Take care to type the code exactly as shown, including the brackets and quotation marks.
+
+3. Click File > Save, when prompted save the file on to the RP2040 device.
 
 ### Step 3: Run the Program
 
@@ -83,7 +89,7 @@ Anything inside the quotation marks is shown exactly as written.
 
 ### Step 4: Change the Message
 
-1. Try changing the text inside the quotation marks.
+1. Try changing the text inside the quotation marks. Remember to save your work after you have made a change.
 
 For example:
 
@@ -104,23 +110,10 @@ Questions
  - Did Python display exactly what you typed?
  - What happens if you remove one of the quotation marks?
 
-### Step 5: Save Your Program
-
-1. It is important to save your work.
-
-Select **File → Save As**.
-
-Create a folder for your robotics work and save the file as:
-
-```
-first_program.py
-```
-
-The `.py` extension tells the computer that this is a Python file.
 
 #### Challenge Activity
 
-2. Can you create a program that displays three different messages?
+1. Can you create a program that displays three different messages?
 
 For example:
 

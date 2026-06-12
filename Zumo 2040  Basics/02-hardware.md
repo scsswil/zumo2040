@@ -2,7 +2,7 @@
 
 The Zumo 2040 is a small robot made up of several different parts that work together. Each part has a specific job. When combined, these parts allow the robot to move, sense its surroundings, and respond to instructions written in code.
 
-In robotics, we often describe these parts as hardware. Hardware simply means the physical components you can see and touch, as opposed to software, which is the code you write in Python.
+In robotics, we often describe these parts as hardware. Hardware simply means the physical components you can see and touch, as opposed to software, which is the code you write (in this case, it is Python).
 
 Below is an overview of the main hardware components in the Zumo 2040 and what they are used for.
 
@@ -24,6 +24,7 @@ When your program runs, the microcontroller reads inputs from sensors, processes
  - Making decisions based on sensor input
  - Running autonomous behaviours (robot actions without human control)
 
+---
 
 ## Buttons
 
@@ -44,6 +45,8 @@ Top view of the Zumo 2040 robot.
 
 You will learn how to used the buttons later on.
 
+---
+
 ## Motors and Tracks
 
 The Zumo 2040 moves using two electric motors, each connected to a set of rubber tracks similar to those on a tank. A motor converts electric energy into movement energy (kinematic energy). When the motors spin, they turn the tracks, allowing the robot to move forwards, backwards, or turn on the spot.
@@ -61,11 +64,13 @@ The use of tracks instead of wheels gives the robot better grip and stability, e
 
 You will learn how to use the motors later on.
 
+
 ### What they are used for
  - Driving in a straight line
  - Turning left and right
  - Competing in challenges such as sumo battles or obstacle courses
 
+---
 
 ## Line Sensors (Reflectance Sensors)
 
@@ -81,6 +86,8 @@ The line sensors are located just behind the front scoop. There are five line se
 
 Bottom view of the Zumo 2040 robot.
 ```
+
+---
 
 ## Front Sensors (Proximity Sensors)
 
@@ -99,6 +106,7 @@ Front view of the Zumo 2040 robot looking at the scoop.
 
 You will learn how to use the proximity sensors later on.
 
+---
 
 ## LEDs (Light Emitting Diodes)
 
@@ -114,6 +122,7 @@ The robot has 6 RGB LEDs, in addition to a few LEDs that indicate if the robot i
 
 You will learn how to use the RGB LEDs later on.
 
+---
 
 ## Buzzer
 
@@ -124,6 +133,8 @@ The buzzer is useful for giving audio feedback. This can be helpful when you can
 The noises you generate with the Buzzer can be quite annoying, so be careful not to annoy other people too much.
 
 You will learn how to use the Buzzer later on.
+
+---
 
 ## Battery Pack
 
