@@ -6,7 +6,7 @@ In robotics, we often describe these parts as hardware. Hardware simply means th
 
 Below is an overview of the main hardware components in the Zumo 2040 and what they are used for.
 
-```{figure} ./assets/zumo_2040_front.jpg
+```{figure} ../assets/zumo_2040_front.jpg
 :label: zumo_2040_front
 :align: center
 
